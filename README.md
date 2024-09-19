@@ -21,6 +21,5 @@ This project demonstrates a simple **Movies Controller** using ASP.NET Core MVC 
 1. Clone this repository to your local machine.
 2. Open the solution in Visual Studio or your preferred editor.
 3. Update the `appsettings.json` file with your database connection string.
-4. Run the migrations to create the database schema using the following command:
-   ```bash
-   dotnet ef database update
+4. Run the migrations to create the database schema.
+5. Run the Application
